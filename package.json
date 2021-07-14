@@ -1,0 +1,11 @@
+{
+  "name": "maharani-project",
+  "version": "1.0.0",
+  "description": "perintah npm init untuk membuat package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "maharani-hamidah",
+  "license": "ISC"
+}
